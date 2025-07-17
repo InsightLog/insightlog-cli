@@ -1,6 +1,6 @@
 {
   "name": "insightlog-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Post logs to InsightLog from the terminal",
   "main": "bin/index.js",
   "bin": {
@@ -22,6 +22,6 @@
     "dotenv": "^16.4.5",
     "fs-extra": "^11.3.0",
     "inquirer": "^12.7.0",
-    "insightlog-cli": "^1.0.1"
+    "insightlog-cli": "^1.0.0"
   }
 }
