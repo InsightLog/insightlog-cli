@@ -10,7 +10,7 @@ import dotenv from "dotenv";
 dotenv.config();
 
 // Config
-const API_BASE_URL = process.env.BASE_URL || "http://localhost:5000/api/v1";
+const API_BASE_URL = process.env.BASE_URL
 const configPath = path.join(os.homedir(), ".insightlogrc");
 
 // Save config locally
